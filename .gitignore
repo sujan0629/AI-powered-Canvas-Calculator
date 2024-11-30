@@ -1,2 +1,5 @@
 calculator-backend/venv/
+
 .env
+calculator-backend/.env
+
