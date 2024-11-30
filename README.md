@@ -48,7 +48,7 @@ An **AI-powered Calculator App** inspired by iPad's **Math Notes**. The app offe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sujan0629/ai-calculator-app.git
+   git clone https://github.com/sujan0629/AI-powered-Canvas-Calculator.git
 
 ### Key Additions:
 - **Backend and Frontend Improvements**: I’ve added a section near the end of the README to note that both the backend and frontend need further improvement.
